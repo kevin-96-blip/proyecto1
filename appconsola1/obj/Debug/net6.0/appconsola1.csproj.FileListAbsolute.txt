@@ -1,0 +1,15 @@
+C:\Users\Kev\source\repos\appconsola1\appconsola1\bin\Debug\net6.0\appconsola1.exe
+C:\Users\Kev\source\repos\appconsola1\appconsola1\bin\Debug\net6.0\appconsola1.deps.json
+C:\Users\Kev\source\repos\appconsola1\appconsola1\bin\Debug\net6.0\appconsola1.runtimeconfig.json
+C:\Users\Kev\source\repos\appconsola1\appconsola1\bin\Debug\net6.0\appconsola1.dll
+C:\Users\Kev\source\repos\appconsola1\appconsola1\bin\Debug\net6.0\appconsola1.pdb
+C:\Users\Kev\source\repos\appconsola1\appconsola1\obj\Debug\net6.0\appconsola1.csproj.AssemblyReference.cache
+C:\Users\Kev\source\repos\appconsola1\appconsola1\obj\Debug\net6.0\appconsola1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kev\source\repos\appconsola1\appconsola1\obj\Debug\net6.0\appconsola1.AssemblyInfoInputs.cache
+C:\Users\Kev\source\repos\appconsola1\appconsola1\obj\Debug\net6.0\appconsola1.AssemblyInfo.cs
+C:\Users\Kev\source\repos\appconsola1\appconsola1\obj\Debug\net6.0\appconsola1.csproj.CoreCompileInputs.cache
+C:\Users\Kev\source\repos\appconsola1\appconsola1\obj\Debug\net6.0\appconsola1.dll
+C:\Users\Kev\source\repos\appconsola1\appconsola1\obj\Debug\net6.0\refint\appconsola1.dll
+C:\Users\Kev\source\repos\appconsola1\appconsola1\obj\Debug\net6.0\appconsola1.pdb
+C:\Users\Kev\source\repos\appconsola1\appconsola1\obj\Debug\net6.0\appconsola1.genruntimeconfig.cache
+C:\Users\Kev\source\repos\appconsola1\appconsola1\obj\Debug\net6.0\ref\appconsola1.dll

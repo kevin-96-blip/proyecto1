@@ -1,0 +1,30 @@
+﻿
+
+using System.Runtime.CompilerServices;
+using System.Security.Cryptography.X509Certificates;
+
+namespace holamundo
+{
+    class program
+    {
+        private static void Main(string[] args)
+        {
+
+            Console.Write("Ingrese el número de filas del triángulo: ");
+            int numeroFilas = Convert.ToInt32(Console.ReadLine());
+
+            for (int fila = 1; fila <= numeroFilas; fila++)
+            {
+                for (int columna = 1; columna <= fila; columna++)
+                {
+                    Console.Write("*");
+                }
+            }
+
+
+
+
+
+        }
+    }
+}
