@@ -29,8 +29,9 @@ namespace holamundo
         public string name { get; set; }
         public string desc { get; set; }
 
-        public Persona(string name, string desc)
+        public Persona(int id, string name, string desc)
         {
+            this.id = id;
             this.name = name;
             this.desc = desc;
         }
