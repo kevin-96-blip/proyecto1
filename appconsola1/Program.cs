@@ -39,5 +39,10 @@ namespace holamundo
         {
             Console.WriteLine(id+" "+name);
         }
+
+        public int? getID(int? id)
+        {
+            return this.id;
+        }
     }
 }
