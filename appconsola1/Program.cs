@@ -20,11 +20,23 @@ namespace holamundo
                     Console.Write("*");
                 }
             }
+        }
+    }
 
+    class Persona
+    {
+        public int id { get; set; }
+        public string name { get; set; }
+        public string desc { get; set; }
 
+        public Persona()
+        {
 
+        }
 
-
+        public void getInfo()
+        {
+            Console.WriteLine(id+" "+name);
         }
     }
 }
