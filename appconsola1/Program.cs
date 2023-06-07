@@ -29,9 +29,10 @@ namespace holamundo
         public string name { get; set; }
         public string desc { get; set; }
 
-        public Persona()
+        public Persona(string name, string desc)
         {
-
+            this.name = name;
+            this.desc = desc;
         }
 
         public void getInfo()
